@@ -1,5 +1,6 @@
 # getnif
 
+ホストの nic に割り当てられている IP アドレスなどを表示する  
 ifconfig や ip a の出力だとシェルなどから使いずらいのでコマンド化  
 
 *compile*
