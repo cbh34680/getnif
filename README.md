@@ -19,4 +19,7 @@ b,10.96.150.255
 
 $ ./getnif -a
 10.96.150.78
+
+$ ./getnif
+Usage: ./getnif -d DEVIDE {-h|-a|-b|-m|-n}
 ```
