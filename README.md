@@ -12,9 +12,11 @@ gcc -O2 -std=c11 -o getnif getnif.c
 ```
 $ ./getnif -d eth0 -a
 10.96.150.78
+
 $ ./getnif -d eth0 -a -b
 a,10.96.150.78
 b,10.96.150.255
+
 $ ./getnif -a
 10.96.150.78
 ```
